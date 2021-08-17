@@ -1,1 +1,1 @@
-*.pdf filter=lfs diff=lfs merge=lfs -text
+青天指南第八版.pdf filter=lfs diff=lfs merge=lfs -text
